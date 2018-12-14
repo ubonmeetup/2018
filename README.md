@@ -2,6 +2,11 @@
 <img src="ubonstartup2018.jpg" alt="Ubon startup logo" width="500">
 
 
+วันอาทิตย์ที่ 16 ธ.ค. 2018 เวลา 10:00-12:00 น. ที่ Joint Space
+
+
+##### [Facebook event](https://www.facebook.com/events/1997837973643362/)
+
 ## Sessions
 
 | Session Name | Speaker(s) |
