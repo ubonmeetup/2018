@@ -1,5 +1,5 @@
 # Ubon Startup Meetup
-<img src="ubonstartup2018.jpg" alt="Ubon startup logo" width="100">
+<img src="ubonstartup2018.jpg" alt="Ubon startup logo" >
 
 
 ## Sessions
