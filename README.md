@@ -6,7 +6,7 @@
 
 | Session Name | Speaker(s) |
 | ------------ | ---------- |
-| การขอทุนและโครงการที่สนับสนุน Starup | อ.ชวลิต ม.อุบลฯ และ อเล็กซ์ ส่งเสริมอุตฯ 7  |
+| การขอทุนและโครงการที่สนับสนุน Startup | อ.ชวลิต ม.อุบลฯ และ อเล็กซ์ ส่งเสริมอุตฯ 7  |
 | Next Generation of Mobile App | ตั้ม |
 | Introduction to Javascript & Web Development | อาร์ต |
 
