@@ -16,7 +16,7 @@
 | 11:00 - 11:10 | Break |
 | 11:10 - 11:20 | Next Generation of Mobile App | ตั้ม |
 | 11:20 - 11:30 | Introduction to Javascript & Web Development | อาร์ต |
-| 11:30 - 11:40 | Introduction about ERP  system  ( Enterprise Resource Planning  ) and share pain. | นินท์ฐวัฒน์  มารุ่งเรือง |
+| 11:30 - 11:40 | Introduction about ERP system <br> (Enterprise Resource Planning) <br> and share pain. | นินท์ฐวัฒน์  มารุ่งเรือง |
 | 11:40 - 12:00| Q&A| |
 
 ###### ***กำหนดการอาจมีการเปลี่ยนเเปลงตามความเหมาะสม
