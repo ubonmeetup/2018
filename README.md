@@ -16,7 +16,7 @@
 | 11:00 - 11:10 | Break |
 | 11:10 - 11:25 | Next Generation of Mobile App | ตั้ม |
 | 11:25 - 11:40 | Introduction to Javascript & Web Development | อาร์ต |
-| 11:40 -  | Q&A| |
+| 11:40 - 12:00| Q&A| |
 
 ###### ***กำหนดการอาจมีการเปลี่ยนเเปลงตามความเหมาะสม
 
