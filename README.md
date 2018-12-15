@@ -9,11 +9,13 @@
 
 ## Sessions
 
-| Session Name | Speaker(s) |
-| ------------ | ---------- |
-| การขอทุนและโครงการที่สนับสนุน Startup | อ.ชวลิต ม.อุบลฯ และ อเล็กซ์ ส่งเสริมอุตฯ 7  |
-| Next Generation of Mobile App | ตั้ม |
-| Introduction to Javascript & Web Development | อาร์ต |
+| Time | Session Name | Speaker(s) |
+| ------------ | ------------ | ---------- |
+| 10:00 - 10:10 | เปิดงาน | คุณอนน เชาวกุล |
+| 10:10 - 11:00 | การขอทุนและโครงการที่สนับสนุน Startup | อ.ชวลิต ม.อุบลฯ และ อเล็กซ์ ส่งเสริมอุตฯ 7  |
+| 11:00 - 11:15 | Next Generation of Mobile App | ตั้ม |
+| 11:15 - 11:30 | Introduction to Javascript & Web Development | อาร์ต |
+| 11:30 -  | Q&A| |
 
 
 ## Sponsors
